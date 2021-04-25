@@ -1,4 +1,6 @@
-
+## WAŻNE
+plik powstał z zalążka Pana Kreczmera by skompilować należy w miejscu gdzie leży plik readme otworzyć terminal i
+wpisać make natomiast dla testów make test
 ## Building
 
 Build by making a build directory (i.e. `build/`), run `cmake` in that dir, and then use `make` to build the desired target.
